@@ -51,7 +51,12 @@ button{
     box-shadow: -8px -8px -15px rgba(250, 92, 7, 0.685);
     cursor: pointer;
 }
-
+button:hover{
+    background-color: darkgrey;
+}
+.equalbtn:hover{
+    background-color: darkorange;
+}
 .equalbtn{
     background-color: orange;
 }
